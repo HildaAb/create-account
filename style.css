@@ -76,7 +76,7 @@ body {
 
 .form-control.error small {
   color: #e74c3c;
-  visibility: hidden;
+  visibility: visible;
 }
 
 .form-control i {
